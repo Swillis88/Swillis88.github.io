@@ -1,6 +1,6 @@
-### Stephanie Willis, PhD
+## Stephanie Willis, PhD
 
-
+![Stephanie photo](img/Stephanie-5.jpg)
 
 Hi! I am Geography/GIS Instructor & Researcher for the Rising Voices, Changing Coasts NSF grant #2103843.  I live in Lawrence, Kansas and my work is based at Haskell Indian Nations University during the academic year.  I teach a variety of geography classes (world regional geography, physical geography, cultural geography, and GIS courses) and love to collect postcards as the perfect little piece of ephemera telling a story of place.  Since I was a teen, I've spent my summers working in Ouray, Colorado where I hike like mad while I can!
 
