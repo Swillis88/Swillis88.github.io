@@ -8,12 +8,12 @@ Hi! I am Geography/GIS Instructor & Researcher for the Rising Voices, Changing C
 
 ### Education
 * 2019 Ph.D. - Geography, University of Kansas
-* Dissertation: Ouray Postcard Sense-of-Place: Looking at Words and Reading Pictures
-* Advisor: Stephen Egbert
+  Dissertation: Ouray Postcard Sense-of-Place: Looking at Words and Reading Pictures
+  Advisor: Stephen Egbert
 
 * 2010 Master of Arts – Geography, University of Kansas
-* Thesis: Ouray, Colorado: Sense of Place in the Modern Wild West
-* Advisor: James R. Shortridge
+  Thesis: Ouray, Colorado: Sense of Place in the Modern Wild West
+  Advisor: James R. Shortridge
 
 * 2007 Bachelor of Arts - Geography, University of Kansas
 
