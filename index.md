@@ -1,11 +1,3 @@
-scss---
----
-@import "{{ site.theme }}";
-
-body {
-  background: linear-gradient(to right, #ff4040, #5bc3eb) !important;
-}
-
 ## Stephanie Willis, PhD
 
 ![Stephanie photo](img/Stephanie-5.jpg)
