@@ -22,20 +22,20 @@ Hi! I am Geography/GIS Instructor & Researcher for the Rising Voices, Changing C
 * Cheong, So-Min and Stephanie Willis. 2015. “Integrating Research and Education: Undergraduate Fieldwork in Geography.” Council on Undergraduate Research Quarterly. 36:1, 40-46.
 
 ### Conference Proceedings and Presentations
-Willis, Stephanie (2026). “Geography Education at Haskell Indian Nations University.” Annual Meeting of the American Association of  Geographers, San Francisco, California.
-Willis, Stephanie (2026). “Geography Education at Haskell Indian Nations University.” National Geographic Society Explorers Meeting, Lawrence, Kansas.
-Willis, Stephanie (2026). “Geography Education at Haskell Indian Nations University.” Kansas Social Studies Conference, Topeka, Kansas.
-Willis, Stephanie (2025). “Convergent Science: Weaving Modern Scientific Knowledge with Traditional Wisdom for Weather, Water, and Climate Actions.” Annual Meeting of the American Geophysical Union, New Orleans, Louisiana.
-Willis, Stephanie (2025). “Approachable Geographic Education: Convergence Science and Interdisciplinary Collaboration of Haskell Indian Nations University.” Annual Meeting of the American Association of Geographers, Detriot, Michigan.
-Willis, Stephanie (2024). “Geographic Education Reimagined: An Exploration of Haskell Indian Nations University.” Annual Meeting of the American Geophysical Union, Washington D.C.
-Willis, Stephanie (2019). “The Value of Story Maps.” Annual Meeting of the Great Plains / Rocky Mountain Division of the American Association of Geographers, Lawrence, Kansas.
-Willis, Stephanie (2018). “Postcards of Ouray, Colorado: Looking at Words and Reading Pictures.” Ouray County Historical Society, Ouray, Colorado.
-Willis, Stephanie (2016). “Jumping into Place: Playground Jump Rope Games and the Shaping of Senses of Place.” Annual Meeting of the American Association of Geographers, San Francisco, California.
-Willis, Stephanie (2015). “Placing Sense of Place: The Current Landscape of Humanistic Geography and Sense of Place Methodologies.” Annual Meeting of the American Association of Geographers, Chicago, Illinois.
-Willis, Stephanie (2014). “Alternative Methods for Sense of Place Research.” Annual Meeting of the American Association of Geographers, Tampa, Florida.
-Willis, Stephanie (2013). “Scents of Place: A Scented Map of the U. S. According to Kansans.” Annual Meeting of the American Association of Geographers, Los Angeles, California.
-Willis, Stephanie (2013). “Smell-scapes: A Scented Mental Map of the U.S.” Annual Meeting of the American Association of Geographers, Seattle, Washington.
-Willis, Stephanie (2013). “Ouray, Colorado: Sense of Place in the Modern Wild West.” Annual Meeting of the American Association of Geographers, Las Vegas, Nevada.
+* Willis, Stephanie (2026). “Geography Education at Haskell Indian Nations University.” Annual Meeting of the American Association of  Geographers, San Francisco, California.
+* Willis, Stephanie (2026). “Geography Education at Haskell Indian Nations University.” National Geographic Society Explorers Meeting, Lawrence, Kansas.
+* Willis, Stephanie (2026). “Geography Education at Haskell Indian Nations University.” Kansas Social Studies Conference, Topeka, Kansas.
+* Willis, Stephanie (2025). “Convergent Science: Weaving Modern Scientific Knowledge with Traditional Wisdom for Weather, Water, and Climate Actions.” Annual Meeting of the American Geophysical Union, New Orleans, Louisiana.
+* Willis, Stephanie (2025). “Approachable Geographic Education: Convergence Science and Interdisciplinary Collaboration of Haskell Indian Nations University.” Annual Meeting of the American Association of Geographers, Detriot, Michigan.
+* Willis, Stephanie (2024). “Geographic Education Reimagined: An Exploration of Haskell Indian Nations University.” Annual Meeting of the American Geophysical Union, Washington D.C.
+* Willis, Stephanie (2019). “The Value of Story Maps.” Annual Meeting of the Great Plains / Rocky Mountain Division of the American Association of Geographers, Lawrence, Kansas.
+* Willis, Stephanie (2018). “Postcards of Ouray, Colorado: Looking at Words and Reading Pictures.” Ouray County Historical Society, Ouray, Colorado.
+* Willis, Stephanie (2016). “Jumping into Place: Playground Jump Rope Games and the Shaping of Senses of Place.” Annual Meeting of the American Association of Geographers, San Francisco, California.
+* Willis, Stephanie (2015). “Placing Sense of Place: The Current Landscape of Humanistic Geography and Sense of Place Methodologies.” Annual Meeting of the American Association of Geographers, Chicago, Illinois.
+* Willis, Stephanie (2014). “Alternative Methods for Sense of Place Research.” Annual Meeting of the American Association of Geographers, Tampa, Florida.
+* Willis, Stephanie (2013). “Scents of Place: A Scented Map of the U. S. According to Kansans.” Annual Meeting of the American Association of Geographers, Los Angeles, California.
+* Willis, Stephanie (2013). “Smell-scapes: A Scented Mental Map of the U.S.” Annual Meeting of the American Association of Geographers, Seattle, Washington.
+* Willis, Stephanie (2013). “Ouray, Colorado: Sense of Place in the Modern Wild West.” Annual Meeting of the American Association of Geographers, Las Vegas, Nevada.
 
 ### Contact Information
 * Swillis@haskell.edu
