@@ -34,8 +34,8 @@ Hi! I am Geography/GIS Instructor & Researcher for the Rising Voices, Changing C
 * Willis, Stephanie (2015). “Placing Sense of Place: The Current Landscape of Humanistic Geography and Sense of Place Methodologies.” Annual Meeting of the American Association of Geographers, Chicago, Illinois.
 * Willis, Stephanie (2014). “Alternative Methods for Sense of Place Research.” Annual Meeting of the American Association of Geographers, Tampa, Florida.
 * Willis, Stephanie (2013). “Scents of Place: A Scented Map of the U. S. According to Kansans.” Annual Meeting of the American Association of Geographers, Los Angeles, California.
-* Willis, Stephanie (2013). “Smell-scapes: A Scented Mental Map of the U.S.” Annual Meeting of the American Association of Geographers, Seattle, Washington.
-* Willis, Stephanie (2013). “Ouray, Colorado: Sense of Place in the Modern Wild West.” Annual Meeting of the American Association of Geographers, Las Vegas, Nevada.
+* Willis, Stephanie (2011). “Smell-scapes: A Scented Mental Map of the U.S.” Annual Meeting of the American Association of Geographers, Seattle, Washington.
+* Willis, Stephanie (2009). “Ouray, Colorado: Sense of Place in the Modern Wild West.” Annual Meeting of the American Association of Geographers, Las Vegas, Nevada.
 
 ### Contact Information
 * Swillis@haskell.edu
